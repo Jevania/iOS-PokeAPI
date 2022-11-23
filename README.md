@@ -1,4 +1,4 @@
-# iOSApp-PokeAPI
+# iOS-PokeAPI
 
 ## `Overview🏝` 
 A simple app that fetching data from Pokedex API
