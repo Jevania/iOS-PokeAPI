@@ -1,7 +1,7 @@
 # iOSApp-PokeAPI
 
 ## `Overview🏝` 
-A simple app that fetching data from Poke API
+A simple app that fetching data from Pokedex API
 
 `🔗 API Link`: https://pokedex-bb36f.firebaseio.com/pokemon.json
 
